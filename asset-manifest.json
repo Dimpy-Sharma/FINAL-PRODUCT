@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/FINAL-PRODUCT/static/css/main.4fe0b979.chunk.css",
+    "main.js": "/FINAL-PRODUCT/static/js/main.abbb2113.chunk.js",
+    "main.js.map": "/FINAL-PRODUCT/static/js/main.abbb2113.chunk.js.map",
+    "runtime-main.js": "/FINAL-PRODUCT/static/js/runtime-main.337788cb.js",
+    "runtime-main.js.map": "/FINAL-PRODUCT/static/js/runtime-main.337788cb.js.map",
+    "static/css/2.27175f2b.chunk.css": "/FINAL-PRODUCT/static/css/2.27175f2b.chunk.css",
+    "static/js/2.47ce439d.chunk.js": "/FINAL-PRODUCT/static/js/2.47ce439d.chunk.js",
+    "static/js/2.47ce439d.chunk.js.map": "/FINAL-PRODUCT/static/js/2.47ce439d.chunk.js.map",
+    "index.html": "/FINAL-PRODUCT/index.html",
+    "static/css/2.27175f2b.chunk.css.map": "/FINAL-PRODUCT/static/css/2.27175f2b.chunk.css.map",
+    "static/css/main.4fe0b979.chunk.css.map": "/FINAL-PRODUCT/static/css/main.4fe0b979.chunk.css.map",
+    "static/js/2.47ce439d.chunk.js.LICENSE.txt": "/FINAL-PRODUCT/static/js/2.47ce439d.chunk.js.LICENSE.txt",
+    "static/media/breakfast.jpg": "/FINAL-PRODUCT/static/media/breakfast.ff884c52.jpg",
+    "static/media/dinner.png": "/FINAL-PRODUCT/static/media/dinner.b61a3e92.png",
+    "static/media/drinks.png": "/FINAL-PRODUCT/static/media/drinks.5e906fc3.png",
+    "static/media/lunch.jpg": "/FINAL-PRODUCT/static/media/lunch.594b4bf2.jpg",
+    "static/media/nightlife.png": "/FINAL-PRODUCT/static/media/nightlife.04914610.png",
+    "static/media/snacks.png": "/FINAL-PRODUCT/static/media/snacks.a81da127.png",
+    "static/media/Home.css": "/FINAL-PRODUCT/static/media/wallpaper.b5dfce16.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.337788cb.js",
+    "static/css/2.27175f2b.chunk.css",
+    "static/js/2.47ce439d.chunk.js",
+    "static/css/main.4fe0b979.chunk.css",
+    "static/js/main.abbb2113.chunk.js"
+  ]
+}
